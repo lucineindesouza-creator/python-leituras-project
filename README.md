@@ -55,7 +55,7 @@ python-leituras-project/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/lucineindesouza-creator/leituras-project.git
+git clone https://github.com/lucineindesouza-creator/python-leituras-project.git
 ```
 
 Instale as dependências:
