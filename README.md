@@ -48,6 +48,7 @@ python-leituras-project/
 ├── LICENSE
 ├── README.md
 ├── README.txt
+├── .gitignore
 ```
 
 # Instalação
